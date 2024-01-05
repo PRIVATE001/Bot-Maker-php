@@ -7,3 +7,8 @@ git clone https://github.com/PRIVATE001/Bot-Maker-php
 
 cd Bot-Maker-php
 
+python3 PHP-Code.py
+
+Enter The token Bot Telegram To start
+
+Manufactured by :- @DF_GD_D ⭐️ 
